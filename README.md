@@ -1,1 +1,1 @@
-# Sequence-Alignment
+# DNA sequence alignment
